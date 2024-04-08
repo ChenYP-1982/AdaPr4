@@ -6,7 +6,7 @@
 * Gabriela Mendes
 * Gabriel Alvarenga
 * Gabriel Vilarinho
-* Jesya Andrade
+* Jesya Lima
 * Marcel
 * Renan Silva
 
